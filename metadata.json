@@ -1,0 +1,5 @@
+{
+  "name": "Workspace Task Hub",
+  "description": "Gmail, Google Chat, and Google Classroom からタスクを自動抽出して一元管理するアプリ",
+  "requestFramePermissions": []
+}
